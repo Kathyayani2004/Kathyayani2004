@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kathyayani</h1>
-<h3 align="center">A student from GIOE</h3>
+<h3 align="center">A student from SNIST</h3>
 
-- 🔭 I’m currently working on **HyperScript**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 💬 Ask me about **movies and songs**
 
 - 📫 How to reach me **devaruppalakathyayani@gmail.com**
 
